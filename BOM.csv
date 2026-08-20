@@ -1,0 +1,6 @@
+Component,Designator,Qty,Cost (USD),Source
+PCB (2-layer FR-4, 45.84x57.5mm),PCB1,5,$9.40,robu.in
+Ubyte BME690 Temp/Humidity/Pressure/Gas Sensor Module,U1,1,$10.45,robu.in
+GoldenMorning 0.96" I2C OLED Display Module (White),U2,1,$2.40,robu.in
+Seeed Studio XIAO RP2040 v1.0,U3,1,$6.79,robu.in
+Total,,,$29.04,
