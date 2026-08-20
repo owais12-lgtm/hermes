@@ -1,4 +1,3 @@
-<img width="684" height="746" alt="image" src="https://github.com/user-attachments/assets/8ad1b0ba-ac1c-4e52-98e5-bc1c86d442ce" /># Hermes
 
 This is a project that gets data from an environmental sensor (BME690) that measures Temperature, Humidity, Pressure, and gas data — IAQ, bVOC, CO₂. It then shows this data on a 0.96" OLED screen, and all of this is controlled with a Xiao RP2040. It also contains an LED matrix for the looks- it's just super cool! 
 
