@@ -10,4 +10,6 @@ This is a project that gets data from an environmental sensor (BME690) that meas
 
 # PCB
 
-<img width="630" height="741" alt="image" src="https://github.com/user-attachments/assets/096d4d07-bae0-4075-a82a-a191cb41a9c3" />
+<img width="684" height="778" alt="image" src="https://github.com/user-attachments/assets/e0a12c57-1c8f-462d-b599-4b6ca339cd40" />
+<img width="539" height="553" alt="image" src="https://github.com/user-attachments/assets/d857ccff-bc8b-42e3-82a7-7dc38855d801" />
+<img width="539" height="553" alt="image" src="https://github.com/user-attachments/assets/99c9baca-9ef4-4b51-9047-71c0cc677ce5" />
