@@ -4,21 +4,23 @@ description: "Gets data from a BME690 environmental sensor (Temperature, Humidit
 created_at: "2026-08-20"
 ---
 
+# June 8th: Sensor Hunting and First Schematic
 
+Today I worked on finding some cool sensors I could use for my project. I went through a whole list of options, including wind speed trackers, rain sensors, and about a hundred different air quality and humidity sensors. It was really fun, but honestly not that useful in the end.
 
-# June 8th: <journal entry title!>
+I settled on a specific sensor with a lot of functions: the **BME690**. It has temperature, humidity, and pressure sensing, plus a bunch of other gas-related features I might find useful.
 
-->i worked on finding some cool sensors i could use for my project and went through a whole ass list out, that consisted of a wind speed trackers/rain sensor/ 100's of air quality sensors and humidity stuff. really fun but not that useful 
+I then worked on the schematic and had to make my own symbol for it, since no one has published symbols for this sensor.
 
--> i settled on a specific sensor that had a lot of functions. the "BME690" it seems to have Temperature, Humidity, Pressure and a bucnha other gas stuff i might find usefull. 
+After that, I had to watch a tutorial on how to make a footprint, since no one has those either. Once I got those done, I moved on to making the PCB and routing it.
 
--> i worked on the schematic and had to make my own symbol cuz noone has symbols for this sensor 
+I found a bunch of empty space on one side of the PCB that I couldn't fill with other components, so I decided to add an LED matrix!
 
--> after that i had to watch a tutorial on how to make a footprint cuz noone has those either. so i got those done then went on to make the pcb and routed it. 
-
--> i found a buncha empty spaces on a side of the pcb i couldnt fill out with other stuff so i decuided to put on a led matrix! 
-
-
-https://cdn.hackclub.com/01a01f79-5555-788d-981d-39b5cb872101/image.pnghttps://cdn.hackclub.com/01a01f79-5824-7765-a88a-32092d874649/image.pnghttps://cdn.hackclub.com/01a01f79-5aca-7c24-9fa8-b5e0db4c95bf/image.pnghttps://cdn.hackclub.com/01a01f79-5da0-7f82-8f8c-2ee32fef2fa0/image.pnghttps://cdn.hackclub.com/01a01f79-609d-7d62-b050-eba3571c7769/image.pnghttps://cdn.hackclub.com/01a01f79-6403-7bcc-ad93-8c93f66bca6f/image.png
+![Image 1](https://cdn.hackclub.com/01a01f79-5555-788d-981d-39b5cb872101/image.png)
+![Image 2](https://cdn.hackclub.com/01a01f79-5824-7765-a88a-32092d874649/image.png)
+![Image 3](https://cdn.hackclub.com/01a01f79-5aca-7c24-9fa8-b5e0db4c95bf/image.png)
+![Image 4](https://cdn.hackclub.com/01a01f79-5da0-7f82-8f8c-2ee32fef2fa0/image.png)
+![Image 5](https://cdn.hackclub.com/01a01f79-609d-7d62-b050-eba3571c7769/image.png)
+![Image 6](https://cdn.hackclub.com/01a01f79-6403-7bcc-ad93-8c93f66bca6f/image.png)
 
 **Total time spent: 3h**
