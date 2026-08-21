@@ -8,6 +8,4 @@ This is a project that gets data from an environmental sensor (BME690) that meas
 
 
 # PCB
-<img width="684" height="746" alt="image" src="https://github.com/user-attachments/assets/852637db-1cd2-44d5-816a-0254a8c511ed" />
-<img width="509" height="578" alt="image" src="https://github.com/user-attachments/assets/bd04868e-f23a-445c-9c61-6dc79f84b9a9" />
-<img width="509" height="578" alt="image" src="https://github.com/user-attachments/assets/078e4584-dd70-4d07-bdf2-dc172d156117" />
+<img width="764" height="809" alt="image" src="https://github.com/user-attachments/assets/fc1dbc12-bcba-485b-bf76-c2cc6ee461d2" />
