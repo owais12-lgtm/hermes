@@ -15,6 +15,7 @@ I then worked on the schematic and had to make my own symbol for it, since no on
 After that, I had to watch a tutorial on how to make a footprint, since no one has those either. Once I got those done, I moved on to making the PCB and routing it.
 
 I found a bunch of empty space on one side of the PCB that I couldn't fill with other components, so I decided to add an LED matrix!
+<img width="764" height="809" alt="image" src="https://github.com/user-attachments/assets/fc1dbc12-bcba-485b-bf76-c2cc6ee461d2" />
 
 ![Image 1](https://cdn.hackclub.com/01a01f79-5555-788d-981d-39b5cb872101/image.png)
 ![Image 2](https://cdn.hackclub.com/01a01f79-5824-7765-a88a-32092d874649/image.png)
